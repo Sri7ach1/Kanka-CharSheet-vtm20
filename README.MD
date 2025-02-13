@@ -23,10 +23,10 @@ A partir de la versión **vampiro_v20_normal**, he dado un paso más allá y he 
 - He añadido **tres nuevas habilidades**, otorgando mayor profundidad a la construcción de personajes. 📖🗡️🧠
 
 ## 🔥 ¿Por qué elegir este proyecto?
-✅ He corregido errores que limitaban la progresión de los personajes.
-✅ Mantiene una total compatibilidad con el sistema original.
-✅ Introduce mejoras y nuevas opciones sin sacrificar la esencia de V20.
-✅ Facilita la gestión de fichas, eliminando problemas de colisión y redundancia.
+- ✅ He corregido errores que limitaban la progresión de los personajes.
+- ✅ Mantiene una total compatibilidad con el sistema original.
+- ✅ Introduce mejoras y nuevas opciones sin sacrificar la esencia de V20.
+- ✅ Facilita la gestión de fichas, eliminando problemas de colisión y redundancia.
 
 ## 🛒 ¿Dónde encontrar estos plugins?
 Si deseas incorporar estas mejoras a tus campañas en **Kanka**, puedes encontrar los plugins disponibles en la tienda oficial de Kanka en el siguiente enlace:
@@ -35,7 +35,7 @@ Si deseas incorporar estas mejoras a tus campañas en **Kanka**, puedes encontra
 
 ## 🎭 Créditos
 - Basado en el trabajo original de **HelionKing**.
-- Todas las correcciones, mejoras y añadidos han sido llevados a cabo con meticuloso cuidado por **Aridane J. Mirabal aka 'Sri7ach1'**, con el único propósito de refinar y enriquecer la experiencia de juego.
+- Todas las correcciones, mejoras y añadidos han sido llevados a cabo con meticuloso cuidado por **'Sri7ach1'**, con el único propósito de refinar y enriquecer la experiencia de juego.
 
 ### 🌐 Más sobre HelionKing
 Si quieres explorar más del trabajo original de **HelionKing**, puedes visitar sus perfiles:
