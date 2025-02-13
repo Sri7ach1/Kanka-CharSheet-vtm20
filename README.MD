@@ -16,7 +16,7 @@ Esta versión toma como base el plugin original de HelionKing, pero con una corr
 - Me encargué de solucionar un error que provocaba que el **Talento "Consciencia"** tuviera el mismo valor que la **Virtud "Conciencia/Convicción"**. Ahora, ambos atributos funcionan como debían hacerlo desde el principio, sin interferencias ni anomalías.
 
 ### 2️⃣ `vampiro_v20_extendida`
-A partir de la versión **vampiro_v20_normal**, he dado un paso más allá y he añadido **tres talentos, técnicas o conocimientos adicionales**, ampliando así las posibilidades estratégicas y narrativas para los jugadores.
+A partir de la versión **vampiro_v20_normal**, he dado un paso más allá y he añadido **tres talentos, técnicas y conocimientos adicionales**, ampliando así las posibilidades estratégicas y narrativas para los jugadores.
 
 #### 🆕 Innovaciones implementadas:
 - Se conserva la crucial corrección de la Virtud "Conciencia/Convicción".
