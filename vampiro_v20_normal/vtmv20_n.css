@@ -1,0 +1,187 @@
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:wght@700&family=Cormorant:ital@0;1&family=Cinzel&display=swap');
+
+/* Headings */
+h1.vtm-h1 {
+  text-align: center;
+  font-family: 'Cinzel', Cambria, Times, serif;
+  color: #AA9D9D;
+  margin-top: 0;
+}
+
+h2.vtm-h2,
+h3.vtm-h3 {
+  text-align: center;
+  font-family: 'Bodoni Moda', serif;
+  color: #AA9D9D;
+  margin: 10px 0px 10px 0px;
+}
+.subtitle {
+  font-size: 50%;
+}
+
+/* Typography */
+.bold {
+  font-family: 'Bodoni Moda', serif;
+  color: #AA9D9D;
+}
+#overview ul li {
+  font-size: larger;
+}
+
+/* Layout */
+main {
+  max-width: 960px;
+}
+.VtM-CharSheet {
+  margin: 0 auto;
+  padding: 12px;
+  font-family: 'Cormorant', Georgia, 'Times New Roman', Times, serif;
+  color: #AA9D9D;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.row h2 {
+  width: 100%;
+  margin-bottom: 0;
+}
+.justify-space-around {
+  justify-content: space-around;
+}
+.justify-space-between {
+  justify-content: space-between;
+}
+.justify-space-evenly {
+  justify-content: space-evenly;
+}
+
+.col {
+  display: flex;
+  flex-direction: column;
+}
+
+.col-3 {
+  width: 100%;
+  padding: 8px 12px;
+  box-sizing: border-box;
+}
+@media only screen and (min-width: 600px) {
+  .col-3 {
+    width: 300px;
+    max-width: 33%;
+  }
+}
+
+.mb-2 {
+  margin-bottom: 20px;
+}
+
+/* Powers */
+ul {
+  list-style-type: none;
+  padding-inline-start: 0;
+}
+ul li {
+  padding: 5px;
+}
+.vtm-attribute,
+.benefit {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: baseline;
+}
+.points {
+  margin-left: 8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+.vtm-attribute .vtm-label,
+.benefit .vtm-label {
+  display: flex;
+  align-items: baseline;
+  width: 100%;
+  padding: 0;
+  font-size: 100%;
+  font-size: larger;
+  font-style: normal;
+}
+.vtm-attribute .vtm-label:after,
+.benefit .vtm-label:after {
+  margin-left: 4px;
+  border-bottom: 1px solid black;
+  content: '';
+  flex: 1;
+}
+#bloodTrack {
+  flex-wrap: wrap;
+  max-width: 100%;
+  margin-top: 15px;
+}
+#bloodTrack .boxWrapper {
+  margin-bottom: 20px;
+  width: 10%;
+  display: flex;
+  justify-content: center;
+}
+
+/* Merits & Flaws */
+.meritsFlawsTable {
+  width: 100%;
+  border-spacing: 20px;
+  margin-top: 12px;
+  font-size: larger;
+}
+.meritsFlawsTable th {
+  text-align: left;
+}
+.meritsFlawsTable .mainCol {
+  width: 85%;
+}
+/* .meritsFlawsTable .nameCol {
+  display: flex;
+  align-items: baseline;
+  width: 100%;
+  padding: 0;
+}
+.meritsFlawsTable .nameCol::after {
+  margin-left: 4px;
+  border-bottom: 1px solid black;
+  content: '';
+  flex: 1;
+} */
+.meritsFlawsTable .costCol,
+.meritsFlawsTable .ptsCol {
+  text-align: center;
+}
+
+/* Health */
+#healthTable {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: larger;
+}
+#healthTable .condition {
+  width: 85%;
+}
+#healthTable .checkbox {
+  margin: 0 6px;
+}
+
+/* Weakness & XP */
+.p-center {
+  text-align: center;
+  margin: 10px 0px 10px 0px;
+}
+.p-large {
+  font-size: large;
+}
+.box-entity-attributes {
+  width: 85%;
+  opacity: 85%;
+}
